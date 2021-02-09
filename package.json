@@ -22,7 +22,7 @@
     "url": "https://github.com/strongloop/loopback-sdk-angular/issues"
   },
   "dependencies": {
-    "ejs": "^1.0"
+    "ejs": "^3.1.6"
   },
   "devDependencies": {
     "angular": "^1.4.9",
